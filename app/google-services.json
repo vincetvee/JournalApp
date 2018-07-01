@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1075305857364",
+    "firebase_url": "https://myjournalapp-dbe27.firebaseio.com",
+    "project_id": "myjournalapp-dbe27",
+    "storage_bucket": "myjournalapp-dbe27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075305857364:android:657a9f6e35a0cdc4",
+        "android_client_info": {
+          "package_name": "com.example.ubfac.myjournalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075305857364-ib2jeiedqdi4amc12rap9cq0rtobeuag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ubfac.myjournalapp",
+            "certificate_hash": "bddd329a487e7a0f34ebd9f8e75bfc5dde3f6d7f"
+          }
+        },
+        {
+          "client_id": "1075305857364-2pfbv5hs3h5vkmcgsvg9lr38ebadb0i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnyAznpwQ-MZCArWXOnhI4ftmQW_drQvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075305857364-2pfbv5hs3h5vkmcgsvg9lr38ebadb0i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

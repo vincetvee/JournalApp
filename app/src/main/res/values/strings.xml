@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyJournalApp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="save_note">Save Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="edit_note">Edit Note</string>
+    <!--<string name="default_web_client_id"></string>-->
+</resources>
